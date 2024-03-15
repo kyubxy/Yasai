@@ -10,6 +10,7 @@ my 48672094th attempt at making a multipurpose graphics engine from scratch.
 - Class composition over inheritence, always aiming for a wide inheritence tree over a tall one.
 - A general awareness and avoidance for any obvious code smells
 - No relative positioning! It's too hard and contributes nothing to the quality of the engine.
+- No unweildy scope, I want graphics, input, audio and resource caching. Nothing else.
 
 ## Why?
 I like finishing things I start.

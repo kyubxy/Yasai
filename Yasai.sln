@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yasai", "Yasai\Yasai.csproj", "{89264B36-36F1-4377-B71C-D018D07D4F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yasai.TestApp", "Yasai.TestApp\Yasai.TestApp.csproj", "{47060129-AF49-440C-91C1-26D081A48A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89264B36-36F1-4377-B71C-D018D07D4F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89264B36-36F1-4377-B71C-D018D07D4F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89264B36-36F1-4377-B71C-D018D07D4F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89264B36-36F1-4377-B71C-D018D07D4F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47060129-AF49-440C-91C1-26D081A48A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47060129-AF49-440C-91C1-26D081A48A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47060129-AF49-440C-91C1-26D081A48A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47060129-AF49-440C-91C1-26D081A48A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1D7B4C-C4EE-48E3-8F3D-CC78DFC89D65}
+	EndGlobalSection
+EndGlobal
